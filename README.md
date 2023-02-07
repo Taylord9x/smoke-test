@@ -5,7 +5,7 @@ Technologies Used
 
     Java
     Selenium WebDriver
-    TestNG (optional)
+    TestNG
 
 Project Structure
 
